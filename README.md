@@ -56,3 +56,4 @@ MATLAB DSP Toolbox functions: fir1, filter, freqz, impz, stepz
 
 #OUTPUT#
 <img width="700" height="595" alt="image" src="https://github.com/user-attachments/assets/2ad3f081-4c63-46e7-9aa6-e41cbad0f1be" />
+<img width="562" height="495" alt="image" src="https://github.com/user-attachments/assets/f8c82936-34f0-4f4a-8afb-4811c28ce578" />
